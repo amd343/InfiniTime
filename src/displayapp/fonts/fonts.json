@@ -37,7 +37,7 @@
    "jetbrains_mono_extrabold_compressed": {
       "sources": [
          {
-            "file": "JetBrainsMono-ExtraBold.ttf",
+            "file": "JetBrainsMono-Bold.ttf",
             "range": "0x30-0x3a"
          }
       ],
